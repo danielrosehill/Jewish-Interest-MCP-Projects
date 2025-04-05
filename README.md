@@ -6,26 +6,38 @@
 
 ### Jewish Texts
 
+The Sefaria MCP project is a logical starting point for those looking to make traditional Jewish texts available to AI systems.
+
 - **Sefaria MCP Server**
   - Description: Fetch and read Jewish texts through the API of Sefaria.org
-  - GitHub: [https://github.com/Sivan22/mcp-sefaria-server](https://github.com/Sivan22/mcp-sefaria-server)
+  - [![GitHub](https://img.shields.io/badge/GitHub-Sefaria_MCP-blue?logo=github)](https://github.com/Sivan22/mcp-sefaria-server)
+  - [![GitHub Stars](https://img.shields.io/github/stars/Sivan22/mcp-sefaria-server)](https://github.com/Sivan22/mcp-sefaria-server/stargazers)
+  - [![Last Commit](https://img.shields.io/github/last-commit/Sivan22/mcp-sefaria-server)](https://github.com/Sivan22/mcp-sefaria-server/commits/main)
   - MCP Link: [https://mcp.so/server/mcp-otzaria-server](https://mcp.so/server/mcp-otzaria-server)
 
 - **Otzaria MCP Server**
   - Description: Makes the Jewish library accessible to LLMs through the MCP protocol
-  - GitHub: [https://github.com/Sivan22/mcp-otzaria-server](https://github.com/Sivan22/mcp-otzaria-server)
+  - [![GitHub](https://img.shields.io/badge/GitHub-Otzaria_MCP-blue?logo=github)](https://github.com/Sivan22/mcp-otzaria-server)
+  - [![GitHub Stars](https://img.shields.io/github/stars/Sivan22/mcp-otzaria-server)](https://github.com/Sivan22/mcp-otzaria-server/stargazers)
+  - [![Last Commit](https://img.shields.io/github/last-commit/Sivan22/mcp-otzaria-server)](https://github.com/Sivan22/mcp-otzaria-server/commits/main)
 
 ### Jewish Calendar (Zmanim)
 
+Hebcal remains the foremost project for making the Jewish calendar and Jewish prayer times available to digital systems.
+
 - **Hebcal MCP**
   - Description: Hebrew calendar and zmanim (Jewish time-based mitzvot) calculations
-  - GitHub: [https://github.com/hebcal/hebcal-mcp](https://github.com/hebcal/hebcal-mcp)
+  - [![GitHub](https://img.shields.io/badge/GitHub-Hebcal_MCP-blue?logo=github)](https://github.com/hebcal/hebcal-mcp)
+  - [![GitHub Stars](https://img.shields.io/github/stars/hebcal/hebcal-mcp)](https://github.com/hebcal/hebcal-mcp/stargazers)
+  - [![Last Commit](https://img.shields.io/github/last-commit/hebcal/hebcal-mcp)](https://github.com/hebcal/hebcal-mcp/commits/main)
 
 ### Israel-Specific Resources
 
 - **Israel Government Data MCP Server**
   - Description: MCP server for Israel government data releases
-  - GitHub: [https://github.com/aviveldan/datagov-mcp](https://github.com/aviveldan/datagov-mcp)
+  - [![GitHub](https://img.shields.io/badge/GitHub-Israel_Gov_Data_MCP-blue?logo=github)](https://github.com/aviveldan/datagov-mcp)
+  - [![GitHub Stars](https://img.shields.io/github/stars/aviveldan/datagov-mcp)](https://github.com/aviveldan/datagov-mcp/stargazers)
+  - [![Last Commit](https://img.shields.io/github/last-commit/aviveldan/datagov-mcp)](https://github.com/aviveldan/datagov-mcp/commits/main)
 
 ## Contributing
 
